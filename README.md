@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konstig70
 - 👀 I’m interested in all kinds of computing but ML and its models I find very interesting
-- 🌱 I’m currently learning OOD and java. Also have been dabbling in rudimentary ML algorithms.
+- 🌱 I’m currently learning OS-design and low-lewel programming. Also have been dabbling in rudimentary ML algorithms and GUI-design (javaFX) etc.
 
 
 <!---
